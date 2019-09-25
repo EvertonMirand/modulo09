@@ -1,4 +1,4 @@
-import createSagaMiddleware from 'react-redux';
+import createSagaMiddleware from 'redux-saga';
 import createStore from './createStore';
 
 import rootReducer from './modules/rootReducer';
